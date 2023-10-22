@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-ifquh",
+    "appUrl": "https://realm.mongodb.com/groups/650dd2c30ce54328b0678125/apps/651492ba885ab085e5e4c37e",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://asia-south1.gcp.realm.mongodb.com",
+    "dataApiBaseUrl": "https://asia-south1.gcp.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/650dd2c30ce54328b0678125/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
